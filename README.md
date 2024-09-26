@@ -1,2 +1,2 @@
-# AriCampos
+# PROYECTO SQL
 prueba2_repositorio
